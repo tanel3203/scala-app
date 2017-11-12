@@ -54,7 +54,7 @@ class FirebaseDb(credentialsFile: String, dbUrl: String) {
 object FirebaseDb {
 
   val DB_CREDENTIALS = "src/main/resources/firebasecred.json"
-  val DB_URL = "https://bookclub-monese.firebaseio.com"
+  val DB_URL = "https://blol random.firebaseio.com"
 
   val TBL_USERS = "users"
 
