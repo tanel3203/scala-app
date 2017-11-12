@@ -1,12 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "project id here, get this file from your firebase project",
-  "private_key_id": "key id here",
-  "private_key": "private key here",
-  "client_email": "email here",
-  "client_id": "client id here",
+  "project_id": "bookclub-monese",
+  "private_key_id": "cb1978bb550c4bddc2a55eced8ac6c3cfc151c9a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2CHnnuK9keAz3\ns6zGgSOxGq2JPrxabnUyB0uPkDRaUIQZgZD/gfM35NRqdYglIYuWhMfc6QGobv+6\nZNutL8cCOoQX9WNUyszsXkPrPegwCTcD/7QcKjedJQTI4Kkld/FtiCE8MZaGFGBJ\n/Ae3Ik67rj2rziPFQ5yVp19b1saX0//3PFi+2jPiCOmfVtdN5kwqJxdPJK5hf/cm\nDYcmr7XVV6yT0DcwnmYE+JcTGiiVDunN9me21e36hk1Kg4dF+oZTMs4Ghd/9lyUq\nCd/xIFUoy70BaXXyzvzl6edHCcecr8PIFnQ10y7CwuNrsOWNl94Cn6+AM+Jk64dZ\n/ZYwzexzAgMBAAECggEAQaOs0bH3DPN9OZTAqJPImwRTrznAEZvjBrc6t/n35tlB\nyTC/aGMjoPQS5JCdF0aRXyViLHaY8nOUI1JbJIgl6tfO6hTCTMEUQ+d59knMgAXS\noM6D0+QlSbUflI/ubmRh2m1MDriS3qZaUlNfNNpaKbMa6ejbXTaUMCK6cBNyaSyc\nvmOafjmtQQEuzaP44ajZgHrTYk7LuTIMUWhcalNfGzQGB5A6UcG3oBa37Y2R1VE3\nbDMaHElwmZk0GUSmy+TtxIWGAziupMtzjZl3ouhFktzr0cXp2vmD7SVi18QfjE9U\n0/l4XPm0c/lKt3O0XGLeoJ6xAvs+3tW4wj2vZWpQgQKBgQDsRSGa1SpLBgmnXJOR\nsx2+YmN3WQlE01whGRo71dWaGvTKGg5sR9XBAEKCpAZdSrsko9lmcQ6KTQ78nOm+\nn6gthMBY00aqU/oqQ7SrfY/p0IbG6Sjkqw+LxrHIj07qPZBuNmcp1NHdBhlC7yiV\nWGgNNcjB95tAq4bwMW7MFyWYzQKBgQDFO+S95J2WEWXecFEnYpuKu5Wm7OWz/4Sq\nKX+Jgpkuzya6T+sF/cyHiKEFTvPouWUjTr55kPaROp6C6le/HGbeKe07CrQCjyiW\nyyc3nEvdRYX44c9CwTYuUecBHC69TUg5+YZAmlpkeyuiYo0J1kzQlsqaqpu7RFlq\nWsCECyqaPwKBgQDXXDhCYpU3Z1x7UfYs84BkHlid2+mH88RhYvk3mzUlT/bbFR8a\ncewUDUGSxSIL/WdSAYvTRbBEPfMwLXMeT3dDbmLJVGNwNDWuOqK/Qidgr7N6MeMV\ndBsqhEVfE8mR1+YDn9EvHw7gEYQLL+XlI31MtT62FxVLwE2yOMzOeTbK7QKBgFPN\nfQWKS8LlpYj75B998GTkC1QfuAHhAbdjZoNA8GFJN0VWi5/CFNNJpFEjGNO7YlO8\nM4Znp7xRUeSCOcJECRlAa0H47D9iIHbh3snsKPfdgG0dVPkiKylHN4XrOZjJa3Tm\nprpwWxPymbmnchHJ8l12lKNe9kh9ZBiicsYoEHP1AoGBAI5fUMnkQPCGs5JH0dqb\nM6p2yP5PBT+eAQxKYNxdTgS+MXq9Xg3xSw2b6yfKWQj9Rc6zuzTWsiLsas/xFsPf\nrKL9xIR67UDHOFXkaAboSAMXEJIev/Ly5rxYzhZDIkAXPE/Uu39mY7FQYRJj6jdN\nXvoV3yBXgs6dlPdJSTHJ48ly\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-x4xil@bookclub-monese.iam.gserviceaccount.com",
+  "client_id": "107288546457883724138",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://accounts.google.com/o/oauth2/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "url here"
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-x4xil%40bookclub-monese.iam.gserviceaccount.com"
 }

@@ -10,7 +10,6 @@ class AppConfig
 
 object Application extends App {
   BasicConfigurator.configure()
-  new FirebaseDb().init()
   SpringApplication.run(classOf[AppConfig])
 
 }
